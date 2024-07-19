@@ -119,7 +119,8 @@ body {
 
 /* Tooltips for experience group (appear below) */
 .experience-group .tooltip::after {
-    bottom: -30px;
+	
+    bottom: -150px;
     left: 50%;
     transform: translateX(-50%);
     background-color: cadetblue; /* Change tooltip background to a darker grey */
