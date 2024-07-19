@@ -21,7 +21,7 @@ body {
 }
 
 .title-group h1 {
-    font-size: 25px;
+    font-size: 35px;
     color: white;
     margin-bottom: 0px; /* Reduce space between headline and byline */
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .title-group .core-skills {
-    font-size: 20px;
+    font-size: 30px;
     color: grey;
     margin-top: 0px;
 }
