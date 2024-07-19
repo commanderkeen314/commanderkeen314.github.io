@@ -130,7 +130,7 @@ body {
 
 /* Tooltips for education group (appear above) */
 .education-group .tooltip::after {
-    top: -30px;
+    top: 0px;
     left: 50%;
     transform: translateX(-50%) translateY(-100%);
     background-color: rosybrown; /* Change tooltip background to a darker grey */
