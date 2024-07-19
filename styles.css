@@ -109,7 +109,7 @@ body {
 
 /* Tooltips for title group (appear below) */
 .title-group .tooltip::after {
-    bottom: -240px;
+    bottom: -260px;
     left: 50%;
     transform: translateX(-50%);
     background-color: sandybrown; /* Change tooltip background to a darker grey */
@@ -120,7 +120,7 @@ body {
 /* Tooltips for experience group (appear below) */
 .experience-group .tooltip::after {
 	
-    bottom: -200px;
+    bottom: -250px;
     left: 50%;
     transform: translateX(-50%);
     background-color: cadetblue; /* Change tooltip background to a darker grey */
